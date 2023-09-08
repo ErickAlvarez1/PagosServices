@@ -1,0 +1,10 @@
+Bundle-Name: PagosServices
+Bundle-SymbolicName: com.tokio.pagos.PagosServices
+Bundle-Version: 1.0.0
+Export-Package: \
+	com.tokio.pagos.Impl,\
+	com.tokio.pagos.Been,\
+	com.tokio.pagos.Exception,\
+	com.tokio.pagos,\
+	com.tokio.pagos.Constants,\
+	com.tokio.pagos.Util
